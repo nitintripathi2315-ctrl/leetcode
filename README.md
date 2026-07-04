@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
