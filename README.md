@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0202-happy-number) |
+| [0441-arranging-coins](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
