@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
