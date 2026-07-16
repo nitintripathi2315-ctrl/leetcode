@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -112,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Backtracking
 |  |
 | ------- |
