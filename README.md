@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3917-count-indices-with-opposite-parity](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 <!---LeetCode Topics End-->
