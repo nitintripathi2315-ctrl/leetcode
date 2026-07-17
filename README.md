@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3856-trim-trailing-vowels](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Linked List
 |  |
 | ------- |
