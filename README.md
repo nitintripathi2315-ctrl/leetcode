@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3861-minimum-capacity-box](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3861-minimum-capacity-box) |
+| [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
 | [3917-count-indices-with-opposite-parity](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
