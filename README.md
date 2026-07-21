@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3917-count-indices-with-opposite-parity](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3917-count-indices-with-opposite-parity) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0986-interval-list-intersections) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
