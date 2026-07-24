@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -195,5 +196,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
