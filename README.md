@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1556-thousand-separator](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1556-thousand-separator) |
 | [3856-trim-trailing-vowels](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Linked List
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
