@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -199,9 +200,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
