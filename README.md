@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
