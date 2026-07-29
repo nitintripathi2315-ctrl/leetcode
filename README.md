@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1556-thousand-separator](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1556-thousand-separator) |
 | [3856-trim-trailing-vowels](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Linked List
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
