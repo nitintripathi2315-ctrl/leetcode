@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1200-minimum-absolute-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1200-minimum-absolute-difference) |
