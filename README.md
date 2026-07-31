@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0441-arranging-coins) |
@@ -229,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
