@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0401-binary-watch) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0507-perfect-number) |
 ## Dynamic Programming
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0409-longest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
