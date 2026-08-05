@@ -16,7 +16,7 @@ public:
         Node* curr = head;
         Node* prev = NULL;
 
-        while (times-- && curr) {
+        while (times--) {
             Node* nex = curr->next;
             curr->next = prev;
             prev = curr;
