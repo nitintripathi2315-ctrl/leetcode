@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0704-binary-search](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0896-monotonic-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
