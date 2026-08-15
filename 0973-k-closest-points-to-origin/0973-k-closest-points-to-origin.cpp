@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-         priority_queue<pair <int, vector<int>>> pq;
+         priority_queue<pair <int, vector<int>>> pq; // we need max heap , and c++ by default uses
          int n = points.size();
          for(auto point : points){
             int x = point[0];
