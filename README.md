@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0739-daily-temperatures) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1556-thousand-separator](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1556-thousand-separator) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
 ## Sorting
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -295,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -304,4 +310,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
