@@ -3,8 +3,8 @@ public:
     struct cmp{
         bool operator()(pair <int , string> &a, pair <int, string> &b){
             if(a.first == b.first)
-                return a.second < b.second;
-                return a.first > b.first;
+                return a.second < b.second; //larger word on top
+                return a.first > b.first; // smaller frequency on top
         }
     };
     vector<string> topKFrequent(vector<string>& a, int k) {
