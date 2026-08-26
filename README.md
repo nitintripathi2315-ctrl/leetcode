@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3917-count-indices-with-opposite-parity](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4020-elevator-requests-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
+| [4020-elevator-requests-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4020-elevator-requests-i) |
 ## Sweep Line
 |  |
 | ------- |
