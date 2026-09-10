@@ -11,19 +11,22 @@
  */
 class Solution {
 public:
-    vector<int> a;
+    TreeNode* prev = NULL;
+    bool ans = true;
     void func(TreeNode* root){
-        if(root == NULL) return ;
+        if(root == NULL) return;
         func(root->left);
-        a.push_back(root->val);
-        func(root->right);
-        return;
+        if(prev == NULL){
+            prev = root;
+        }
+        else{
+            if(root->val <= prev->val)
+                ans = false;
+                prev = root;
+        }func(root->right);
     }
     bool isValidBST(TreeNode* root) {
         func(root);
-        int n = a.size();
-        for(int i=0; i<n-1; i++){
-            if(a[i] >= a[i+1]) return false;
-        }return true;
+        return ans;
     }
 };
