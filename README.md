@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0994-rotting-oranges) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -481,4 +485,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
