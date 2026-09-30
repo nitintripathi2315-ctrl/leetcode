@@ -8,7 +8,7 @@ public:
             int d = times[i][1];
             int w = times[i][2];
 
-            a[s-1].push_back({d-1,w});
+            a[s-1].push_back({d-1,w}); // to make 1 -> 0
         }
         priority_queue<
             pair<int, int>,
