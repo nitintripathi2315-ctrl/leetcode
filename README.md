@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
