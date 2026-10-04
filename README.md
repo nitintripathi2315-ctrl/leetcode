@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3940-limit-occurrences-in-sorted-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4020-elevator-requests-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4020-elevator-requests-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Sliding Window
 |  |
 | ------- |
