@@ -524,4 +524,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0778-swim-in-rising-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
