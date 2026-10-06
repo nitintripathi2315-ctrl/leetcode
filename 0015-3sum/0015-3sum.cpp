@@ -13,26 +13,25 @@ public:
             int sum = -a[i];
             while(left < right){
                 int s = a[left] + a[right];
-                if(s == sum){
+                if(s==sum){
                     ans.push_back({a[i], a[left], a[right]});
                     left++;
                     right--;
                 
             
-            while(left<n && a[left] == a[left-1]){
-                left++;
-            }
-            while(right>=0 && a[right] == a[right + 1]){
-                right--;
-            }
-            }
+                while(left < n && a[left] == a[left-1]){
+                    left++;
+                }
+                while(right >= 0 && a[right] == a[right+1]){
+                    right--;
+                }
+                }
                 else if(s<sum){
-                left++;
-            }
-            else{
-                right--;
-            
-            } 
+                    left++;
+                }
+                else{
+                    right--;
+                }
             }
         }return ans;
     }
