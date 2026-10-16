@@ -9,7 +9,7 @@ public:
             if(a[i] == 0) {zero++;
             }
             else
-            one++;
+            one++; 
             int diff = zero - one;
             if(diff==0){
                 ans = max(ans , i+1);
