@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4020-elevator-requests-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4020-elevator-requests-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Counting Sort
 |  |
 | ------- |
