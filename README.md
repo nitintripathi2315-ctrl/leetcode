@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [4020-elevator-requests-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4020-elevator-requests-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sweep Line
 |  |
 | ------- |
@@ -459,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -559,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
