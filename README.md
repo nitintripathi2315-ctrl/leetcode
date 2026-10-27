@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
 | ------- |
