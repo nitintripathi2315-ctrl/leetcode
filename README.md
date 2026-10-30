@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0202-happy-number) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/0778-swim-in-rising-water) |
