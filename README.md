@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3842-toggle-light-bulbs](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3861-minimum-capacity-box](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/nitintripathi2315-ctrl/leetcode/tree/master/3866-first-unique-even-element) |
