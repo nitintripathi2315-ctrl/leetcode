@@ -7,7 +7,7 @@ public:
         for(int i=0; i<n; i++){
             sum += a[i];
             ans = max(ans , sum);
-            if(sum < 0){
+            if(sum < 0){ // if subarray is becoming -ve , then reset.
                 sum = 0;
             }
         }return ans;
