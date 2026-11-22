@@ -1,19 +1,16 @@
 class Solution {
 public:
-    long long rev = 0;
-    int digit;
     bool isPalindrome(int x) {
-        if(x <0) return false;
-        int ans = x;
+        int ans;
+        ans = x;
+        long long digit = 0 , rev = 0;
         while(x!=0){
-        digit = x % 10;
-        rev = rev * 10 + digit;
-        x /= 10;
-        }
-        if(rev == ans) 
-        {
-            return true;}
-            else 
-        return false;
+            
+            digit = x % 10;
+            rev = 1LL  * rev * 10 + digit;
+            x/=10;
+            
+        }if(rev != ans || rev<0) return false;
+        return true;
     }
 };
