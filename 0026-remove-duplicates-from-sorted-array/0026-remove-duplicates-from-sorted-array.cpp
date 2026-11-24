@@ -2,15 +2,15 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& a) {
         int n = a.size();
-        int officer = 0;
-        int cm = 1;
-        int count = 1;
-        while(cm <n){
-            if(a[cm-1] == a[cm]){
+        int cm = 1 , officer = 0 , count = 1;
+        while(cm < n)
+        {
+            if(a[cm] == a[cm-1]){
                 cm++;
+            
             }
-            else{
-                a[officer + 1] = a[cm];
+            else {
+                (a[officer+1] = a[cm]);
                 cm++;
                 officer++;
                 count++;
